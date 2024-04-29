@@ -8,9 +8,9 @@
 <p>
   Welcome! 👋 This is where you get to meet me. i'm Gabriel and i'm your best option for an dev internship!
 
-  - 🌱 I’m currently studying Data Science and Computer Science at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
-
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+  - 🌱 I’m currently studying System Analysis and Development at SENAC, but i already graduated in Business School with focus on Overseas Trading. 🚢
+    
+  - 🔭 Altough i'm looking for my first internship opportunity in Dev/IT. i'm no now to the market, i've already worked at tecnology startups and big global leader companies with around 5 years of experience with Customer Success and Customer Service.
 </p>
 
 <!-- Dropdown -->

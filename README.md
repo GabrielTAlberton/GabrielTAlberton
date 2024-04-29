@@ -33,6 +33,8 @@
  - I'm learning a lot and always implement new functions and enhance my code, check my repository!
 </p>
 
+![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTAlberton&layout=compact&theme=tokyonight)
+
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
@@ -43,11 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
 
-
-
-  
-
-###
 
   </div>
   

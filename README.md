@@ -10,7 +10,7 @@
 
   - 🌱 I’m currently studying System Analysis and Development at SENAC, but i already graduated in Business School with focus on Overseas Trading. 🚢
     
-  - 🔭 Altough i'm looking for my first internship opportunity in Dev/IT. i'm no now to the market, i've already worked at tecnology startups and big global leader companies with around 5 years of experience with Customer Success and Customer Service.
+  - 🔭 Altough i'm looking for my first internship opportunity in Dev/IT. i'm no new to the market, i've already worked at tecnology startups and big global leader companies with around 5 years of experience with Customer Success and Customer Service.
 </p>
 
 <!-- Dropdown -->

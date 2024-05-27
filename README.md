@@ -32,7 +32,6 @@
  - I'm learning a lot and always implement new functions and enhance my code, check my repository!
 </p>
 
-![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTAlberton&layout=compact&theme=tokyonight)
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
